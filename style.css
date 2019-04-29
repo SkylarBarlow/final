@@ -18,15 +18,15 @@ header {
 
 header h1 {
   font-size:5vw;
-  color:mediumspringgreen;
+  color:grey;
   font-family:Impact;
-  text-shadow: 2px 2px 5px navy;
+  text-shadow: 2px 2px 5px black;
   margin: 0;
 }
 
 header h3 {
   font-size:2vw;
-  color:navy;
+  color:grey;
   margin:0;
 }
 
