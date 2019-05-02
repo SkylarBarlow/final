@@ -209,6 +209,15 @@ input{
 	"div1 div2"
 }
 
+
+.gallerywrapper{
+	display: grid;
+	justify-iteam: center;
+	grid-gap: .5em;
+	align-iteams: end;
+	grid-template-columns: repeat(auto-fill, minmax(25px, 1fr))
+}
+
 .call {
     color:navy;
     text-align:center;
