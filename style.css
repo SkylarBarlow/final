@@ -198,7 +198,7 @@ input{
 .button{
 	padding:5px;
         background-color: navy;
-        color:black;
+        color:white;
 	cursor:pointer;
 }
 
@@ -219,10 +219,10 @@ input{
 }
 
 .call {
-    color:navy;
+    color:white;
     text-align:center;
     font-size:2em;
-    background-color:darkseagreen;
+    background-color:cornflowerblue;
     width:60%;
     padding: 5px 0 0 0;
     margin:10px auto 0 auto;
@@ -230,7 +230,7 @@ input{
 }
 
 .phone{
-    color:darkseagreen;
+    color:white ;
     background-color:navy;
     padding:5px;
     text-align:center;
