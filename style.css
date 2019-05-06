@@ -185,7 +185,7 @@ video{
 }
 
 form{
-   background-color:darkseagreen;
+   background-color:cornflowerblue;
    width:90%;
    color:white;
    padding:10px;
@@ -198,7 +198,7 @@ input{
 .button{
 	padding:5px;
         background-color: navy;
-        color:lightseagreen;
+        color:black;
 	cursor:pointer;
 }
 
